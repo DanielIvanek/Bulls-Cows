@@ -42,7 +42,7 @@ def correct_number_check():
             smycka = False
    
     print("hope it works")
-    return players_number    
+    return players_number
 
 
 
