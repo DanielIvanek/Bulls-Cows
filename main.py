@@ -20,14 +20,16 @@ import test
 # ELIF Podminky hry.
 
 test.uvitani()
-print(test.generate_unique_four_digit_number())
-test.correct_number_check()
+generated_number = test.generate_unique_four_digit_number()
+selected_num = test.correct_number_check()
 
-for num in test.players_number:
-    print("it is not working")
+
+for digit in str(selected_num):
+    if digit in str(generated_number):
+        print(f"Contains {digit} in {generated_number}") 
     
 
-
+ 
 
 
 
