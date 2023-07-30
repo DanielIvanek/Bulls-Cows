@@ -1,0 +1,10 @@
+# Pseudocode
+# Program pozdraví užitele a vypíše úvodní text
+# Vytvor promennou pro nahodne 4 mistne cislo(Musi byt unikatni a nezacinat 0)
+# Hrac zada cislo.
+# IF cislo kratsi nez 4 cisla OR cislo obsahuje duplicity OR cislo zacina nulou OR cislo obsahuje neciselne znaky:
+#   upozorni hrace at zada korektni cislo
+# Vyhodnotit vygenerovane cislo s cislem uzivatele
+# IF cislo == cislo:
+#       Ukonci program// VYHRA
+# ELIF Podminky hry.
