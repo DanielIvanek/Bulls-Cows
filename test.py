@@ -13,19 +13,6 @@ Enter a number:
 -----------------------------------------------
         """  )
     
-### Generovani random number fce
-def generate_unique_four_digit_number():
-    # Generate a random permutation of digits 1 to 9
-    digits = random.sample(range(1, 10), 4)
-
-    # Convert the list of digits to a 4-digit integer
-    ran_number = digits[0] * 1000 + digits[1] * 100 + digits[2] * 10 + digits[3]
-
-    return ran_number
-
-
-### Kontrola zadaneho cisla fce
-
 def correct_number_check():
     smycka = True
     while smycka:
@@ -43,6 +30,26 @@ def correct_number_check():
    
     print("hope it works")
     return players_number
+
+
+def compare_numbers(generated_num, selected_num):
+    generated_str = str(generated_num)
+    selected_str = str(selected_num)
+    x_count = 0
+    y_count = 0
+    
+    checked_indices = set()
+
+    for digit in range (len(generated_str)):
+        if generated_str[digit] == selected_str[digit]:
+            x_count += 1
+            checked_indices.add(digit)
+    for digit in range(len(generated_str)):
+        if digit not in checked_indices and generated_str[digit] in selected_str:
+            y_count += 1
+    return x_count,y_count
+
+
 
 
 
