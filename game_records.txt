@@ -1,0 +1,9 @@
+Game ID: 92298876-c069-4dd1-9406-645cd2ad7df2,    Generated number: 2860,      Guesses: 3Game ID: de4b9699-1fe2-4b09-a54f-d6e63d7c1a72,    Generated number: 9213,      Guesses: 1Game ID: c941b192-8a38-45d0-a8bd-7b22902fccb8,    Generated number: 6492,      Guesses: 9Game ID: 1fd73320-a898-4a8d-8645-3f00e8b71d10,    Generated number: 6320,      Guesses: 1Game ID: bcf8d43b-80a8-4233-94e8-bb128e0c48e0,    Generated number: 9410,      Guesses: 3Game ID: 9ea2f6ae-f704-4ea2-99c8-31325b0d7293,    Generated number: 9214,      Guesses: 1
+
+ Game ID: 489aabae-c2a4-4de8-a049-cf6fa247195f,    Generated number: 5874,      Guesses: 1
+
+ Game ID: a6379619-9c7b-4248-9873-0e486d866fd0,    Generated number: 8029,      Guesses: 1
+ Game ID: e68327cd-7778-42c8-b9a6-4504c0fc836e,    Generated number: 1836,      Guesses: 1
+ Game ID: cfc7749b-5e11-46d8-b5e1-afb9ab8f9e00,    Generated number: 5984,      Guesses: 1
+ Game ID: 342941a8-8fe3-4261-9631-39c93e54df09,    Generated number: 7129,      Guesses: 1
+ Game ID: bb4b3bac-52cb-4ace-b026-30c0d57efebd,    Generated number: 3259,      Guesses: 9
